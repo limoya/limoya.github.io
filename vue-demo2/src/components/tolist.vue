@@ -20,7 +20,7 @@
       return {
         title: 'Todo List For Limo',
         list: Store.fetch(),
-        newItem: '',
+        newItem: ''
       }
     },
     watch: {
